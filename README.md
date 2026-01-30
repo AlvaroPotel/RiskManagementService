@@ -1,5 +1,7 @@
 # Getting Started
 
+https://github.com/user-attachments/assets/659d8524-3ed2-49b6-ac82-8d859eb3b541
+
 Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
